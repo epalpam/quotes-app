@@ -9,4 +9,4 @@
    Nodejs, ExpressJS, MongoDB & EJS (backend) and
    HTML, CSS, Javascript (frontend).
 
-![Alt text](/quotes.png?raw=true "Quotes App")
+![Alt text](/test.png?raw=true "Quotes App")
