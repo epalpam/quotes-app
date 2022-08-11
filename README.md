@@ -8,3 +8,5 @@
 ## This is a simpe fullstack CRUD app created with 
    Nodejs, ExpressJS, MongoDB & EJS (backend) and
    HTML, CSS, Javascript (frontend).
+
+![Alt text](/quotes.png?raw=true "Quotes App")
